@@ -19,7 +19,7 @@ a{
   margin: 0 auto;
 }
 
-/* Navbnar Style Start*/
+
 .navbar {
   display: flex;
   align-items: center;
@@ -68,10 +68,7 @@ a{
     display: none;
   }
 }
-/* Navbar Style End */
 
-/* Hero Section Start */
-/* Hero Left Section Start */
 .hero-section {
   position: relative;
   display: flex;
@@ -156,8 +153,7 @@ a{
 #btn-bottom {
   display: none;
 }
-/* Hero Left Section End */
-/* Hero Right Section Start */
+
 .hero-section-right {
   position: relative;
 }
@@ -294,9 +290,7 @@ a{
     scale: 0.7;
   }
 }
-/* Hero section end */
 
-/* Project Section Start */
 .projects {
   margin-top: 4rem;
   background-color: rgb(231, 231, 231);
@@ -516,9 +510,7 @@ a{
     scale: 0.55;
   }
 }
-/* Project Section End */
 
-/* Skills Section Start */
 .skills-container {
   position: relative;
   display: flex;
@@ -623,9 +615,7 @@ a{
     bottom: 9%;
   }
 }
-/* Skills Section End */
 
-/* Contact Us Start */
 .contactus-container {
   width: 100%;
   background-color: rgb(231, 231, 231);
@@ -711,9 +701,7 @@ a{
     width: 90%;
   }
 }
-/* Contact Us End */
 
-/* Footer Start */
 footer {
   position: relative;
   margin-top: -1px;
@@ -767,5 +755,3 @@ footer {
     display: none;
   }
 }
-/* Footer End */
-
